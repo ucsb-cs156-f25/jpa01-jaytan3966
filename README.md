@@ -1,6 +1,7 @@
 # jpa01-jaytan3966
 
-https://jpa01-jaytan3966.dokku-12.cs.ucsb.edu
+
+Deployed at: https://jpa01-jaytan3966.dokku-12.cs.ucsb.edu
 
 
 # About this repo
